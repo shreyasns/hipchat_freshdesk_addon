@@ -1,1 +1,25 @@
---- []
+---
+- :freshdesk_domain: !binary |-
+    aHR0cHM6Ly9zaHJleWFzbnMuZnJlc2hkZXNrLmNvbQ==
+  :freshdesk_apikey: !binary |-
+    Sm5QN1NDRXRvNkRrcGRhcUk5cUQ=
+  :hipchat_domain: !binary |-
+    aHR0cHM6Ly90ZXN0c2hyZXlhcy5oaXBjaGF0LmNvbQ==
+  :room_id: !binary |-
+    MTQ0MzkyOA==
+  :oauth_id: !binary |-
+    ODZkZDg0N2YtNmFmNy00NjEyLTkzNWMtOGNkY2IyZTU0OTNi
+  :secret_key: e2b2z0njoSeysFkmqpTq6VVFnX0K5ZAchzr9jU1X
+  :ticket_create: !binary |-
+    MQ==
+  :ticket_update: !binary |-
+    MQ==
+  :webhook_ids:
+  - 5000544421
+  - 5000544422
+  - 5000544423
+  :redirect_url: !binary |-
+    aHR0cHM6Ly90ZXN0c2hyZXlhcy5oaXBjaGF0LmNvbS9yb29tcy9hZGRvbnMv
+    MTQ0MzkyOA==
+  :id: !binary |-
+    ZTE4Nzk4ZTA5NTg5MGVmNmYzY2ZhMTZjODQxODZk
